@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.pyo
+build/
+dist/
+*.spec
+config.json
+data/*.db
+data/*.db-journal
+data/*.db-wal
+data/*.db-shm
+.venv/
+venv/
+*.zip

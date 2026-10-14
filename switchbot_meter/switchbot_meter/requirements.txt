@@ -1,0 +1,6 @@
+bleak>=0.22
+winotify>=1.1.0
+pystray>=0.19
+pillow>=10
+winrt-Windows.UI.Notifications>=2.0.0
+winrt-Windows.Data.Xml.Dom>=2.0.0
